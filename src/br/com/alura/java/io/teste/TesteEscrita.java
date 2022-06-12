@@ -15,7 +15,7 @@ public class TesteEscrita {
         bw.write("Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod");
 //        bw.newLine();
         bw.newLine();
-        bw.write("asfasdfsadas dfs sdf asf assdB");
+        bw.write("flçgkdfçg pofdgi dfpogk pfogid");
 
         bw.close();
 
